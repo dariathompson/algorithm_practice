@@ -19,5 +19,5 @@ def main(num):
 
 main(500000)
 
-my_arr = [1, 2, 3, 4, 5, 6]
+my_arr = [2, 1, 3, 4, 5, 6]
 print(my_reverse(my_arr))
